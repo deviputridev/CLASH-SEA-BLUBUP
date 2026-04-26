@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1748330755 source:c:\users\devip\documents\seagame\main.cpp
+	<graphics.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<vector>
+	<algorithm>
+	<cstdio>
+
